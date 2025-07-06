@@ -47,7 +47,7 @@ public class Book {
         this.book_name=book_name;
     }
 
-    public Long getBookId(){                                 //"bookId": 254,
+    public Long getBookId(){
                                                     //  "authorName": null,
                                                     //    "bookName
         return id;
